@@ -1,8 +1,8 @@
 # combinatorial_MAB
 
-![Software Architecture](Implementation.png)
+![Software Architecture](figures/Implementation.png)
 
-![Results on Different tasks](intro.png)
+![Results on Different tasks](figures/intro.png)
 
-![More Results](figure2.png)
+![More Results](figures/figure2.png)
 
