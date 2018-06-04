@@ -22,5 +22,10 @@
 ## Empirical results on sparse datasets
 ![More Results](figures/figure2.png)
 
+## Datasets
+- [Tiny-imagenet](https://tiny-imagenet.herokuapp.com/)
+- [10x Genomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.3.0/1M_neurons)
+- [Gas sensors](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)
+
 ## Software Architecture
 ![Software Architecture](figures/Implementation.png)
