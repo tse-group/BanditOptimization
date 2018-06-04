@@ -16,11 +16,11 @@
   - K-nearest neigbhours : `./build/knn10x aws_server.ini start-index end-index` (finds the k nearest points for points from start to end index)
   - K-means : `./build/kmeans10x aws_server.ini`
 
-### Empirical results on Imagenet (Main results)
+## Empirical results on Imagenet (Main results)
 ![Results on Different tasks](figures/intro.png)
 
-### Empirical results on sparse datasets
+## Empirical results on sparse datasets
 ![More Results](figures/figure2.png)
 
-### Software Architecture
+## Software Architecture
 ![Software Architecture](figures/Implementation.png)
