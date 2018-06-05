@@ -27,5 +27,8 @@
 - [10x Genomics](https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.3.0/1M_neurons)
 - [Gas sensors](https://archive.ics.uci.edu/ml/datasets/gas+sensor+array+drift+dataset)
 
+## Hadamard Transform
+![Hadamard](figures/Hadamard.png)
+
 ## Software Architecture
 ![Software Architecture](figures/Implementation.png)
