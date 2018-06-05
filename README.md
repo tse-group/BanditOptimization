@@ -1,8 +1,8 @@
 ## Notes
-- If distance between datapoints heavily depends on a few co-oridinates then 'smooth' the data using [Fast John-LindenStrauss transform](https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf) before using the software.
-- Dependices : g++-4.9, gcc-4.9,  cmake,  libboost-all-dev,  build-essential,  libhdf5-serial-dev.
+- If distance between datapoints heavily depends on a few co-oridinates then 'smooth' the data using [Fast Walsh-Hadamard transform](https://www.cs.princeton.edu/~chazelle/pubs/FJLT-sicomp09.pdf) before using the software (for l2 distance).
+- Dependendices : g++-4.9, gcc-4.9,  cmake,  libboost-all-dev,  build-essential,  libhdf5-serial-dev.
 - Run `./utils/build.sh` to build all the binaries.
-- aws_server.ini stores all the information (such as datapath, saveResultsPath) required by the  software.
+- `aws_server.ini` stores all the information (such as datapath, saveResultsPath) required by the  software.
 
 ## Reproducibility
 - All the figures can be generated in ipython notebooks in 'figure' folder.
